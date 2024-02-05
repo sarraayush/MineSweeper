@@ -12,6 +12,14 @@
         </li>
         <li><strong>Dynamic Game Outcome:</strong> If you successfully uncover all the numbers with all mines cleared, the message above the game board will change to <code>Mine Cleared!</code>, indicating your victory.</li>
     </ol>
+    <h2>SKills Used :</h2>
+    <ul>
+     <li>Java Awt</li>
+     <li>Java Jpanel</li>
+     <li>Java Jlabel</li>
+    <li> Java OOPS</li>
+    </ul>
+    
  <h2>ScreenShots</h2>
      <ul style="list-style-type:none">
       <li>
